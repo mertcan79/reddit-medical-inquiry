@@ -9,8 +9,8 @@ This project utilizes the Google Gemini API to analyze medical inquiries from th
 - **Dashboard Filtering**: The extracted data is presented in a dashboard where users can filter and analyze information based on symptoms, medications, and other relevant factors.
 
 - **User Interface Components**: The UI includes components for displaying medical inquiry details, symptoms, medications, and possible diagnoses. Users can interact with badges to filter and analyze data.
-
-![alt text](frontend/src/assets/images/img.png)
+- 
+![Alt text](frontend/src/assets/images/img.png?raw=true "Title")
 
 ## Tech stack
 - FastAPI
