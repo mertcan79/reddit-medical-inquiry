@@ -32,7 +32,7 @@ Install Dependencies: Navigate to the project directory and install the necessar
 cd reddit-medical-inquiry
 npm install
 ```
-Configure API Key: Get your Google Gemini API key and replace YOUR_API_KEY in the configuration file.
+Configure API Key: Get your Google Gemini and Reddit API key and replace YOUR_API_KEY in the configuration file.
 
 Open the .env file and replace keys with your actual Reddit and Google API keys.
 
